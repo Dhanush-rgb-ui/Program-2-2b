@@ -1,6 +1,6 @@
 #  Module-2 Day-2 SEB
 ## AIM:
-To write a C program to printpattern series:
+To write a C program to print pattern series:
 
 <img width="87" height="292" alt="image" src="https://github.com/user-attachments/assets/14b38609-9c23-4dbc-9805-379052e698da" />
 
